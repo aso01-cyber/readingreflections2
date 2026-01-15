@@ -1,2 +1,52 @@
-# Auto detect text files and perform LF normalization
+# <!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The First Website </title> 
+</head>
+<style>
+    body {background: linear-gradient(to bottom, #a7d9f5, #ffff, hsl(202, 80%, 81%));} 
+    ul {list-style:circle}
+    li {margin: 5px 0;}
+        p {text-align:center; color: #112774;}
+        h1 {color: white; 
+            text-decoration:overline underline; 
+            font-family: 'Courier New', Courier, monospace;
+            font-style: italic; 
+            text-shadow: 2px 2px 4px #c539e4;       
+            text-align:center; }
+       ul {color: #0a184d; display: center ;display: inline-block; list-style:circle; text-align:left;}
+        img {display: block;  margin-left: auto; margin-right: auto; transition: transform 0.5s ease-in-out;}
+        img:hover {transform: scale(1.05);}
+    button {background-color:rgb(245, 172, 190); display:block; margin:20px auto; padding:10px 20px; transition: background-color 1s ease-out, transform 1s ease-out;}
+    button:hover {background-color:rgb(234, 90, 114); transform: scale(1.1);}        
+</style>
+<body> 
+      <h1> ADD ME ADD ME!<h1><h1 style="color:white"></h1>
+    <br>
+    <hr>
+    <br>
+    <!-- I want to hide this comment balala-->
+    <p> this is my first class website. </p>
+    <br>
+   <p class="p1"> Click here! <a href="https://www.youtube.com/watch?v=QFIZBUO3Frc">epictunes</a> </p>
+    <hr>
+    <div class ="images">
+    <a href="https://pin.it/2J8pcele4">
+        <img src="angel.png" alt="feltedangel" width="300px"></a>
+    <a href="https://letterboxd.com/ang_i_i/">
+        <img src="tvgirl.png" alt="tv screen" width="300"></a>
+        <br>
+        <a/a href="">
+    <img src="hatbear.png" alt="rilakkuma" width="350">
+    </div>
+    <br>
+    <br>
+    <ul class="p2"> 
+        <li>shaved ice</li>
+        <li>flying cats</li>
+        <li>watching movies</li></ul>
+    <br>
+<button>Click me!</button></a></ul><a href="https://www.youtube.com/watch?v=xvFZjo5PgG0">  </a>
+</body>
+</html>Auto detect text files and perform LF normalization
 * text=auto
